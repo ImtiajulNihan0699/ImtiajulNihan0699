@@ -1,10 +1,6 @@
 # Hi 👋, I'm Md Imtiajul Islam Nihan  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
-<p align="center">
-  <img src="./github-banner.png" alt="Imtiajul Nihan - Web Developer" width="100%" />
-</p>
-
 ---
 
 ## 👨💻 About Me  
