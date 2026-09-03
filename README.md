@@ -1,4 +1,4 @@
-# Hi 👋, I'm <Md Imtiajul Islam Nihan>  
+# Hi 👋, I'm Md Imtiajul Islam Nihan  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
@@ -44,5 +44,3 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
