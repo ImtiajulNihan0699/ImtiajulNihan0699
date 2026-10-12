@@ -1,3 +1,4 @@
+![Imtiajul Nihan - Full Stack Enthusiast](github-banner.png)
 # Hi 👋, I'm Md Imtiajul Islam Nihan  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
